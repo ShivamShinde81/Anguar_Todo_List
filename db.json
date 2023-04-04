@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "gvshyfvfyj",
+      "email": "ss@gmail.com",
+      "mobile": "cnht",
+      "address": "nhd",
+      "services": "fnhm"
+    },
+    {
+      "id": 7,
+      "name": "grfe",
+      "email": "ss@gmail.com",
+      "mobile": "98765432",
+      "address": "kjuhgtfrdes",
+      "services": "kjhgvfcdx"
+    },
+    {
+      "id": 8,
+      "name": "efrgh",
+      "email": "ss@gmail.com",
+      "mobile": "345678",
+      "address": "asdv",
+      "services": "aSDFB"
+    }
+  ],
+  "signup": [
+    {
+      "name": "srs",
+      "email": "ss@gmail.com",
+      "mobile": "9876543210",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Shivam",
+      "email": "srs@gmail.com",
+      "mobile": "9876543210",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ]
+}
